@@ -1,3 +1,1 @@
-# Topics
-
-* [Lexing](Lexing.md)
+Please refer to the wiki!
